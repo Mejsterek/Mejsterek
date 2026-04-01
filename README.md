@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me<br><br>Hi, I'm Dawid 👋<br>Junior Developer focused on backend development.<br>I enjoy working with APIs, databases, and improving existing code.<br>Currently, I'm expanding my skills and contributing to personal projects.<br><br>💻 Tech stack: C#, PHP, Python, JavaScript, SQL, HTML<br>🎯 Goal: Become a professional backend developer and work on real-world products<br>
+## About Me<br><br>Hi, I'm Dawid 👋<br>Junior Developer focused on backend development.<br>I enjoy working with APIs, databases, and improving existing code.<br>Currently, I'm expanding my skills and contributing to personal projects.<br>L<br>🎯 Goal: Become a professional backend developer and work on real-world products<br>
 
 
 ## 🌐 Socials:
